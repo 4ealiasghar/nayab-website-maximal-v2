@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 300" width="600" height="600"><style>@import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@700&amp;display=swap');.n{font-family:Vazirmatn,Tahoma,sans-serif;font-weight:700}</style><defs><pattern id="tri" width="20" height="14" patternUnits="userSpaceOnUse"><path d="M0 14L10 0 20 14Z" fill="#B08B50"/></pattern><pattern id="st" width="12" height="12" patternUnits="userSpaceOnUse"><path d="M6 0V12" stroke="#B08B50" stroke-width="2.5"/></pattern></defs>
+<rect x="30" y="48" width="240" height="14" fill="url(#tri)"/>
+<rect x="30" y="74" width="240" height="152" fill="#173D35"/>
+<rect x="30" y="74" width="50" height="152" fill="url(#st)"/><rect x="220" y="74" width="50" height="152" fill="url(#st)"/>
+<rect x="80" y="74" width="140" height="152" fill="#EEE5D5"/>
+<text class="n" x="150" y="166" text-anchor="middle" font-size="54" fill="#173D35">نایاب</text>
+<line x1="94" y1="92" x2="206" y2="92" stroke="#B08B50" stroke-width="2.5" stroke-dasharray="7 5"/>
+<line x1="94" y1="208" x2="206" y2="208" stroke="#B08B50" stroke-width="2.5" stroke-dasharray="7 5"/>
+<g transform="translate(0 300) scale(1 -1)"><rect x="30" y="48" width="240" height="14" fill="url(#tri)"/></g>
+</svg>
